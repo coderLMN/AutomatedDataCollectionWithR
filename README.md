@@ -4,6 +4,8 @@
 
 参与讨论，请进入 https://github.com/coderLMN/AutomatedDataCollectionWithR/issues 
 
+根据这些讨论的内容，我把其中比较典型和重要的问题整理在 **wiki** 里，供读者参考：https://github.com/coderLMN/AutomatedDataCollectionWithR/wiki
+
 
 以下是译者序：
 
