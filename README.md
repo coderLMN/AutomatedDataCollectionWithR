@@ -6,6 +6,7 @@
 
 根据这些讨论的内容，我把其中比较典型和重要的问题整理在 **wiki** 里，供读者参考：https://github.com/coderLMN/AutomatedDataCollectionWithR/wiki
 
+这里还有一个 smSpider.md 文件 https://github.com/coderLMN/AutomatedDataCollectionWithR/blob/master/smSpider.md ，是在水木 BBS 二站上抓取整个版面内容的 JS 代码演示。
 
 以下是译者序：
 
