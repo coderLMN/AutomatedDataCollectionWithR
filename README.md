@@ -1,10 +1,9 @@
-# AutomatedDataCollectionWithR
+## 《基于 R 语言的自动化数据采集技术》演示项目及讨论区
 
-《基于 R 语言的自动化数据采集技术》演示项目及讨论区
 
-参与讨论，请进入 https://github.com/coderLMN/AutomatedDataCollectionWithR/issues 
+参与讨论，请进入 https://github.com/coderLMN/AutomatedDataCollectionWithR/issues 。
 
-根据这些讨论的内容，我把其中比较典型和重要的问题整理在本书的 [**wiki**](https://github.com/coderLMN/AutomatedDataCollectionWithR/wiki) 里，供读者参考.
+根据这些讨论的内容，我把其中比较典型和重要的问题整理在本书的 [**wiki**](https://github.com/coderLMN/AutomatedDataCollectionWithR/wiki) 里，供读者参考。
 
 这里还有一个 [smSpider.md 文件](https://github.com/coderLMN/AutomatedDataCollectionWithR/blob/master/smSpider.md) ，是在水木 BBS 二站上抓取整个版面内容的 JS 代码演示。
 
